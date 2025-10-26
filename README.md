@@ -1,2 +1,2 @@
 # NUMPYY
-Simple Calculator Using Numpy
+Numpy projects
